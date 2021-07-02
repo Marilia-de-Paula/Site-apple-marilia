@@ -1,0 +1,193 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.Menu{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    position: fixed;
+    top: 0;
+}
+
+.menu{
+    height: 50px;
+    width: 70%;
+    background-color: black;
+    display: flex;
+    margin: auto;
+  
+   
+}
+a{
+    text-decoration:none;
+    font-size: 15px;
+    margin: auto;
+    align-self: center;
+}
+
+a:hover{
+    color: wheat;
+}
+
+.Mac{
+    height: 10vh;
+    width: 100%;
+    
+}
+.Ipad{
+    height: 10vh;
+    width: 100%;
+    
+}
+
+.Ipad{
+    height: 10vh;
+    width: 100%;
+   
+}
+.Iphone{
+    height: 10vh;
+    width: 100%;
+  
+}
+
+.Watch{
+    height: 10vh;
+    width: 100%;
+
+}
+
+.Tv{
+    height: 10vh;
+    width: 100%;
+    
+}
+
+.Music{
+    height: 10vh;
+    width: 100%;
+  
+}
+
+.Suporte{
+    height: 10vh;
+    width: 100%;
+    
+}
+
+.frase{   
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(235, 235, 235);
+    font-size: 3px;
+}
+.frasemenu {
+    font-size: 15px;
+    color: black;
+    margin: left;
+}
+.tel-1{
+    height: 90vh;
+    width: 100%;
+    background-image: url(img/iphone_pro.jpg);
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.tel-2{
+    height: 90vh;
+    width: 100%;
+    background-image: url(img/imagem_coluna_1.jpg);
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.tel-3{
+    height: 90vh;
+    width: 100%;
+    background-image: url(img/ipad_pro.jpg);
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.col1{
+    height: 50vh;
+    width: 30%;
+    background-image: url(img/imagem_coluna_1_atualizada.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.col2{
+    height: 50vh;
+    width: 30%;
+    background-image: url(img/imagem_coluna_2_atualizada.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.col3{
+    height: 50vh;
+    width: 40%;
+    background-image: url(img/imagem_coluna_2.jpg);
+    background-position: left;
+    background-size: cover;
+    text-align: center;
+    padding-top: 250px;
+    padding-left: 50px;
+}
+.col4{
+    height: 50vh;
+    width: 40%;
+    background-image: url(img/imagem_coluna_3.jpg);
+    background-position: right;
+    background-size: cover;
+    text-align: center;
+    padding-top: 40px; 
+}
+.col5{
+    height: 50vh;
+    width: 40%;
+    background-image: url(img/imagem_coluna_5_atualizada.jpg);
+    background-position: left;
+    background-size: cover;
+    text-align: center;
+}
+.col6{
+    height: 50vh;
+    width: 40%;
+    background-image: url(img/imagem_coluna_6_atualizada.jpg);
+    background-position: right;
+    background-size: cover;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cl3{
+    height: 40vh;
+    width:350px;
+    text-align: center;
+    margin: auto;
+   
+}
+.cl4{
+    height: 40vh;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
